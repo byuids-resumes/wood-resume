@@ -2,7 +2,7 @@
 layout: cv
 title: Sarah Wood's Resume
 ---
-# Brigham Young
+# Sarah Wood
 Soon-to-be graduate of Brigham Young University-Idaho with a degree in Accounting.
 
 <div id="webaddress">
