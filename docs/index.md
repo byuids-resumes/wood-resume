@@ -6,8 +6,8 @@ title: Sarah Wood's Resume
 Soon-to-be graduate of Brigham Young University-Idaho with a degree in Accounting.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="woo17005@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Accounting Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -15,13 +15,7 @@ Soon-to-be graduate of Brigham Young University-Idaho with a degree in Accountin
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -31,17 +25,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2021 - April 2021`
+__Olsen Wheeler CPAs__, Meridian, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Prepared 1099s for clients for their tax returns.  
+- Prepared 2020 tax returns for a variety of clients.
+- Prepared a variety of schedules for individuals and S-corporations.
 
-### Data Science Lead
+### Work Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2021 - Current`
+__Frozen Dessert Supplies__, Accounting Clerk
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
