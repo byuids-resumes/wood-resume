@@ -37,9 +37,9 @@ __Olsen Wheeler CPAs__, Meridian, ID
 `May 2021 - Current`
 __Frozen Dessert Supplies__, Accounting Clerk
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Updates daily revenue numbers from various websites.
+- Pays invoices keeps records of payments for future use. 
+- Works on other projects given by supervisor related to sensitive company financial information.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
